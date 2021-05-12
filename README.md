@@ -11,3 +11,4 @@ This page is [hosted on GitHub Pages](https://marcocosta1618.github.io/pal-bt-pr
 
 ---
 
+![ProductLanding_screenshot(60%)](https://user-images.githubusercontent.com/78434326/117940561-78efef80-b309-11eb-800b-cfb63f2841f2.jpg)
